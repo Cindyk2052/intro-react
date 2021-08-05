@@ -22,4 +22,4 @@ function App() {
   );
 }
 
-export default App;
+export default App; //se exporta para que se vea por otros componentes
